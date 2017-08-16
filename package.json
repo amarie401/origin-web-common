@@ -43,7 +43,8 @@
     "test": "grunt test",
     "build": "grunt build",
     "deploy": "grunt deploy",
-    "help": "grunt help"
+    "help": "grunt help",
+    "postinstall": "bower install"
   },
   "repository": {
     "type": "git",

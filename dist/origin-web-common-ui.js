@@ -225,6 +225,7 @@ hawtioPluginLoader.addModule('openshiftCommonUI');
     "            spellcheck=\"false\">\n" +
     "      </span>\n" +
     "      <div>\n" +
+    "        <h2>HELLO WORLD!</h2>\n" +
     "        <span class=\"help-block\">A unique name for the project.</span>\n" +
     "      </div>\n" +
     "      <div class=\"has-error\">\n" +
